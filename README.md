@@ -28,30 +28,12 @@ I am continuously strengthening my programming fundamentals, exploring modern te
 ---
 
 ## 🛠️ Technical Skills
-
-### 💻 Programming
-
-`Python` `C` `JavaScript`
-
-### 🌐 Web & Full-Stack Development
-
-`HTML` `CSS` `JavaScript` `React` `Angular` `Node.js` `Express.js` `MERN Stack`
-
-### 🗄️ Databases
-
-`MongoDB` `SQL` `MySQL`
-
-### 📱 Mobile Development
-
-`Android` `Kotlin`
-
-### ☁️ Cloud & Automation
-
-`AWS` `n8n`
-
-### 🧠 AI & Machine Learning
-
-`Machine Learning` `Deep Learning` `CNN` `RNN` `LSTM` `GRU`
+**Programming:** `Python` 
+**Frontend:** `React` `Angular` `HTML` `CSS`
+**Backend:** `Node.js` `Express.js` `REST APIs`
+**Database:** `MongoDB` `MySQL` `SQL`
+**AI/ML:** `Machine Learning` `Deep Learning` `CNN` `RNN` `LSTM` `GRU`
+**Cloud & Automation:**  `n8n`
 
 ---
 
