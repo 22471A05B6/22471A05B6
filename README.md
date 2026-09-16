@@ -2,38 +2,51 @@
 
 ### 💻 M.Tech Computer Science Student | Full-Stack Developer | Software Developer Aspirant
 
-I am a **Computer Science Engineer and M.Tech Computer Science student** with a strong interest in **software development, full-stack web development, cloud technologies, automation, and artificial intelligence**.
+I am a **Computer Science Engineer and M.Tech Computer Science student** with a strong interest in **software development, full-stack web development, automation**.
 
-I enjoy building practical, user-focused applications and solving problems through technology. My experience includes working with **JavaScript, React, Angular, Node.js, Python, MongoDB, SQL, and n8n**, along with hands-on experience in machine learning and deep learning projects.
-
-I am continuously strengthening my programming fundamentals, exploring modern technologies, and developing projects that transform ideas into functional solutions.
+I enjoy building practical applications, solving programming problems, and continuously improving my technical skills through hands-on projects and real-world development experience.
 
 ---
 
 ## 👩‍💻 About Me
 
 * 🎓 Pursuing **M.Tech in Computer Science**
-* 🎓 **B.Tech in Computer Science Engineering** from Narasaraopeta Engineering College
-* 📊 Graduated with **91.37%**
-* 💻 Aspiring **Software Developer / Full-Stack Developer**
-* ⚛️ Experienced with **React, Angular, JavaScript, Node.js & MERN Stack**
-* 🐍 Programming experience with **Python and C**
-* 🗄️ Familiar with **MongoDB and SQL**
-* 📱 Exploring **Android Development with Kotlin**
-* ☁️ Learning **Cloud Technologies and AWS**
+* 🎓 **B.Tech in Computer Science Engineering** from Narasaraopet Engineering College
+* 📊 B.Tech Percentage: **82.5%**
+* 💻 Aspiring **Software Developer**
+* ⚛️ Experienced with **React, Angular, Node.js & MERN Stack**
+* 🐍 Programming experience with **Python**
+* 🗄️ Familiar with **MongoDB, MySQL & SQL**
 * ⚙️ Exploring **Workflow Automation with n8n**
 * 🧠 Interested in **Machine Learning & Deep Learning**
-* 🤝 Strong interest in **problem solving, teamwork, communication, and leadership**
+* 🤝 Strong in **Problem Solving, Teamwork, Communication & Leadership**
+
+---
+
+## 💼 Experience
+
+### Infosys Springboard Virtual Internship 6.0
+
+**Feb 2026 – Mar 2026**
+
+**Project: GrandEscape – Tourism Information & Booking Portal**
+
+* Completed an **8-week virtual internship** focused on web application development.
+* Developed a responsive tourism portal using **Angular**.
+* Implemented **destination browsing, search, filtering, booking, and form validation**.
+* Worked with **component-based architecture, routing, local storage, debugging, and responsive design**.
 
 ---
 
 ## 🛠️ Technical Skills
-**Programming:** `Python` 
+
+**Programming:** `Python`
 **Frontend:** `React` `Angular` `HTML` `CSS`
 **Backend:** `Node.js` `Express.js` `REST APIs`
 **Database:** `MongoDB` `MySQL` `SQL`
 **AI/ML:** `Machine Learning` `Deep Learning` `CNN` `RNN` `LSTM` `GRU`
-**Cloud & Automation:**  `n8n`
+**Cloud & Automation:** `AWS` `n8n`
+**Tools:** `Git` `GitHub` `VS Code` `Postman`
 
 ---
 
@@ -43,9 +56,11 @@ I am continuously strengthening my programming fundamentals, exploring modern te
 
 **Hybrid CNN–RNN Deep Learning Model**
 
-Developed a deep learning system for malaria identification from microscopic blood smear images using a hybrid architecture combining **CNN-based feature extraction with RNN-based sequence learning using LSTM and GRU**.
+Developed a hybrid **CNN–LSTM/GRU/BiLSTM** model for malaria cell image classification. Applied image preprocessing, data augmentation, and hyperparameter tuning to improve model performance.
 
-**Tech Stack:** `Python` `Deep Learning` `CNN` `RNN` `LSTM` `GRU`
+📄 Presented the research at the **IEEE ICIH 2025 International Conference**.
+
+**Tech Stack:** `Python` `Deep Learning` `CNN` `RNN` `LSTM` `GRU` `BiLSTM`
 
 ---
 
@@ -53,7 +68,7 @@ Developed a deep learning system for malaria identification from microscopic blo
 
 **MERN Stack Notes Application**
 
-A full-stack notes management platform supporting **authentication, CRUD operations, text customization, formatting, and voice-to-text functionality**.
+Built a full-stack notes management application with **JWT authentication, CRUD operations, search functionality, and customizable note features**.
 
 **Tech Stack:** `MongoDB` `Express.js` `React` `Node.js`
 
@@ -63,7 +78,7 @@ A full-stack notes management platform supporting **authentication, CRUD operati
 
 **Tourism Information & Booking Web Portal**
 
-Developed a tourism web portal providing destination discovery, filtering, destination details, user authentication, and booking functionality. The project also includes an **analytics dashboard for booking and revenue insights**.
+Developed a responsive tourism portal with **destination discovery, search, filtering, authentication, booking, form validation, and analytics**.
 
 **Tech Stack:** `Angular` `TypeScript` `HTML` `CSS` `Chart.js`
 
@@ -73,7 +88,7 @@ Developed a tourism web portal providing destination discovery, filtering, desti
 
 **Angular Wellness Web Application**
 
-A wellness-focused web application providing information related to **nutrition, diet recommendations, workout routines, exercise guidance, and healthy lifestyle practices**.
+Developed a wellness platform covering **nutrition, diet recommendations, workout routines, and healthy lifestyle information**.
 
 **Tech Stack:** `Angular` `TypeScript` `HTML` `CSS`
 
@@ -83,7 +98,7 @@ A wellness-focused web application providing information related to **nutrition,
 
 **Android Application**
 
-An Android application developed with Kotlin for capturing, storing, and organizing memorable moments with an organized local image gallery.
+Developed an Android application using Kotlin for **capturing, storing, and organizing memorable moments** with a local image gallery.
 
 **Tech Stack:** `Kotlin` `Android`
 
@@ -93,7 +108,7 @@ An Android application developed with Kotlin for capturing, storing, and organiz
 
 **Food Discovery & Recipe Platform**
 
-A JavaScript-based food discovery application featuring **search, filtering, favourites, ingredient-based search, and recipe details** through external API integration.
+Built a JavaScript-based food discovery platform with **search, filtering, favourites, ingredient-based search, and recipe details using external APIs**.
 
 **Tech Stack:** `JavaScript` `HTML` `CSS` `REST APIs`
 
@@ -101,39 +116,58 @@ A JavaScript-based food discovery application featuring **search, filtering, fav
 
 ## 📜 Certifications & Achievements
 
+* 🏢 **Infosys Springboard Virtual Internship 6.0 – Web Development (2026)**
+* 💻 **MERN Full Stack with AI – CSC India under APSCHE (2025)**
 * 🎓 **NPTEL – The Joy of Computing in Python**
 * 🌐 **NPTEL – Introduction to Internet of Things**
-* 💻 **MERN Full Stack with AI Internship** – CSC India under APSCHE
-* 🏢 **Infosys Springboard Virtual Internship 6.0**
+* 🌐 **IBM – Web Development Fundamentals**
 * 🐍 **HackerRank – Python Basics**
 * 📜 **HackerRank – JavaScript Basics**
-* 🌐 **IBM – Web Development Fundamentals**
 * 🏆 Participated in a **24-Hour Hackathon at NEC**
-* 📄 Published research work on **Automated Malaria Identification Using a Hybrid CNN-RNN Model**
+* 📄 **IEEE ICIH 2025 – Research Publication**
 
 ---
 
+## 🎓 Education
 
-I believe in **continuous learning through practical implementation**. I regularly work on projects, strengthen my technical fundamentals, and explore technologies that can help me build scalable and meaningful software solutions.
+**M.Tech in Computer Science**
+Currently Pursuing
+
+**Narasaraopet Engineering College**
+B.Tech in Computer Science Engineering | 2022–2026
+**82.5%**
+
+**Narayana Junior College, Guntur**
+Intermediate (MPC) | 2020–2022
+**95.3%**
+
+**G.K.R School, Guntur**
+SSC | 2020
+**92.8%**
+
+---
+
+## 📚 Currently Learning
+
+`Full-Stack Development` • `Backend Development` • `AWS` • `n8n` • `AI/ML` • `Data Structures & Algorithms`
+
+I believe in **continuous learning through practical implementation** and enjoy turning ideas into functional software solutions.
 
 ---
 
 ## 🎯 Career Objective
 
-My goal is to build a career in **software development and full-stack engineering**, where I can apply my programming knowledge, contribute to real-world projects, and continuously grow as a technology professional.
-
-As an M.Tech Computer Science student, I am particularly interested in opportunities that allow me to combine **software engineering, modern web technologies, cloud platforms, automation, and AI/ML**.
+To build a career in **software development and full-stack engineering**, applying my programming and problem-solving skills to real-world applications while continuously learning and growing as a technology professional.
 
 ---
 
 ## 🤝 Let's Connect
 
-
-
 💼 **LinkedIn:** [Hashmi Patan](https://www.linkedin.com/in/hashmi-patan-670865276/)
 
+---
 
 ### ⭐ Thanks for visiting my profile!
 
 Feel free to explore my repositories and projects.
-**I'm always open to learning, collaborating, and building something meaningful.**
+**I'm always open to learning, collaborating, and building meaningful solutions.**
